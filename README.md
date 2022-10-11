@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Drinkwhat a student of 17 yo in Reggio Emilia in Italy.
+- 👀 I’m interested in backend side
+- 🌱 I’m currently learning typescript, express and docker
