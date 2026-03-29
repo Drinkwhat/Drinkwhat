@@ -28,5 +28,20 @@ I bridge academic theory with real-world execution. Currently balancing a demand
 
 ---
 
+### 📈 Activity & Impact
+
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats-topaz-gamma-55.vercel.app/api/top-langs/?username=Drinkwhat&layout=compact&theme=transparent&hide_border=true&title_color=1793D1&hide=html,css" alt="Top Languages" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Drinkwhat&theme=transparent&hide_border=true&title_color=1793D1&icon_color=1793D1&count_private=true" alt="Contribution Streak" />
+    </td>
+  </tr>
+</table>
+
+___
+
 ### 📫 Connect with me
 [LinkedIn](https://www.linkedin.com/in/luca-bevilacqua-00a9ab289/) | [Email](mailto:bevilacqua.luca05@gmail.com)
