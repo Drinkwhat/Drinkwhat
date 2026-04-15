@@ -7,7 +7,7 @@ I bridge academic theory with real-world execution. Currently balancing a demand
 
 ### 🚀 Current "Applied Study" Projects
 - **ResTrackIt (Enterprise MVP):** Logistics automation pilot for **Cigierre Group** (100+ locations). 
-  - [📖 Read the Technical Documentation](https://drinkwhat.github.io/restrackit/) - **Engineering Highlight:** Automated CI/CD pipeline using **GitHub Actions** and **uv** to deploy **Sphinx documentation** on every push.
+  - [📖 Read the Technical Documentation](https://drinkwhat.github.io/) - **Engineering Highlight:** Automated CI/CD pipeline using **GitHub Actions** and **uv** to deploy **Sphinx documentation** on every push.
   - **Tech:** FastAPI, Keycloak (IAM), Docker, PostgreSQL.
   
 - **Scout Ecosystem:** Designing a multi-tenant SaaS platform to unify logistics and financial transparency for scouting organizations.
@@ -24,7 +24,7 @@ I bridge academic theory with real-world execution. Currently balancing a demand
 ---
 
 ### 📊 Academic Highlights & Values
-- **Academic Record:** 30/30 in Programming and OOP (Java) at UNIBO.
+- **Academic Record:** 30/30 in Programming at UNIBO.
 - **Competitive Spirit:** Regional participant in the Informatics Olympiads (OII & OIS).
 - **Core Values:** Extreme Ownership, Systems Thinking, and Financial Awareness.
 - **Community:** 12+ years of commitment to AGESCI Scouting, focused on service and leadership.
