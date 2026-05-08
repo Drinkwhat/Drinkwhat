@@ -24,7 +24,7 @@ I bridge academic theory with real-world execution. Currently balancing a demand
 ---
 
 ### 📊 Academic Highlights & Values
-- **Academic Record:** 30/30 in Programming at UNIBO.
+- **Academic Record:** 30/30 in Programming and 30L in OOP at UNIBO.
 - **Competitive Spirit:** Regional participant in the Informatics Olympiads (OII & OIS).
 - **Core Values:** Extreme Ownership, Systems Thinking, and Financial Awareness.
 - **Community:** 12+ years of commitment to AGESCI Scouting, focused on service and leadership.
